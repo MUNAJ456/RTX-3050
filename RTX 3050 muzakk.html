@@ -51,7 +51,8 @@
                     </ul>
                 </div>
                 <div class="flex justify-center">
-                    <img src="https://placehold.co/500x320/4a5568/e2e8f0?text=NVIDIA+RTX+3050+GPU" alt="Gambar kartu grafis NVIDIA GeForce RTX 3050" title="NVIDIA GeForce RTX 3050" class="rounded-lg shadow-md max-w-full h-auto border-4 border-gray-700">
+                    <!-- Foto RTX 3050 dari tautan yang Anda berikan -->
+                    <img src="https://m.media-amazon.com/images/I/714+DsKIF4L._AC_SL1500_.jpg" alt="Gambar kartu grafis Gigabyte GeForce RTX 3050 Gaming OC" title="Gigabyte GeForce RTX 3050 Gaming OC" class="rounded-lg shadow-md max-w-full h-auto border-4 border-gray-700">
                 </div>
             </div>
 
@@ -85,7 +86,8 @@
                 Seiring berkembangnya teknologi, istilah "VGA" mulai digunakan secara umum untuk merujuk pada "kartu grafis" atau "GPU" secara keseluruhan, meskipun teknologi di dalamnya sudah jauh lebih maju. Evolusi dari standar VGA sederhana menjadi unit pemrosesan grafis modern yang kompleks menunjukkan bagaimana industri ini terus berkembang untuk memenuhi kebutuhan visual yang semakin tinggi.
             </p>
             <div class="flex justify-center my-6">
-                <img src="https://placehold.co/600x350/2d3748/cbd5e0?text=Kartu+VGA+Klasik+(1987)" alt="Gambar kartu VGA klasik dari tahun 1987" title="VGA Klasik" class="rounded-lg shadow-md max-w-full h-auto border-4 border-gray-700">
+                <!-- Foto VGA klasik dari tautan yang Anda berikan -->
+                <img src="https://www.bhphotovideo.com/images/images2500x2500/msi_gt_710_1gd3h_lp_geforce_gtx_710_graphics_1234273.jpg" alt="MSI GT 710, sebuah kartu grafis klasik" title="MSI GeForce GT 710" class="rounded-lg shadow-md max-w-full h-auto border-4 border-gray-700">
             </div>
         </section>
 
@@ -106,7 +108,8 @@
                     </ol>
                 </div>
                 <div class="flex justify-center">
-                    <img src="https://placehold.co/550x350/2d3748/cbd5e0?text=Ilustrasi+Alur+Kerja+GPU" alt="Diagram yang mengilustrasikan alur kerja kartu grafis" title="Alur Kerja VGA" class="rounded-lg shadow-md max-w-full h-auto border-4 border-gray-700">
+                    <!-- Foto ilustrasi alur kerja GPU dari tautan yang Anda berikan -->
+                    <img src="https://www.itsgiga.com/wp-content/uploads/2022/02/Frame-28.png" alt="Diagram alur kerja pemrosesan grafis (GPU)" title="Alur Kerja GPU" class="rounded-lg shadow-md max-w-full h-auto border-4 border-gray-700">
                 </div>
             </div>
         </section>
